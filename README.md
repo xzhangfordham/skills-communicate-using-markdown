@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Communicate using Markdown
+# Yay! Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
@@ -38,7 +38,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ```md
 # This is an `<h1>` header, which is the largest. Some of my own wording here!
 
-## This is an `<h2>` header
+## This is an `<h2>` header. It should be slightly smaller than previous h1 header text.
 
 ###### This is an `<h6>` header, which is the smallest
 ```
